@@ -1,6 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satou20250828&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Satou20250828&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Satou20250828&theme=onedark)](https://github-profile-trophy.vercel.app/?username=Satou20250828&theme=tokyonight)
 
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 [![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
